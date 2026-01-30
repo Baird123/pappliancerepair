@@ -1,0 +1,51 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left:0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Do you provide upfront pricing before repairs begin? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Our technicians explain the issue and provide a clear estimate before starting any work.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are maintenance services available to prevent future problems?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. We offer routine maintenance to improve performance and reduce breakdowns.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is scheduled service available for non-urgent repairs?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Customers can book flexible appointments that fit their schedule.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is regular maintenance really necessary for refrigerators?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Routine maintenance helps prevent major breakdowns, improves energy efficiency, and extends the lifespan of your appliance.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you service both residential and commercial refrigeration systems?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Provides complete repair services for homes, restaurants, retail stores, offices, and industrial facilities.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How fast can you respond for same-day service?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">In many cases, technicians are dispatched within hours depending on availability.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-204-1390">Click Here To Call Us (820) 204-1390</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
